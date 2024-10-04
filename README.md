@@ -1,6 +1,6 @@
 # Mastermind
 
-<img src="./demo_pic.png" alt="demo picture of Mastermind game" width="600", height="450"/>
+![demo picture of Mastermind Game](/demo_pic.png)
 
 ### Introduction
 
